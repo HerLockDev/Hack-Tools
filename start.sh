@@ -1,7 +1,4 @@
-#!/bin/bash
-#Code:YamanEfkar
-#İnstagram: @yamanefkarr
-#Youtube : Yamanefkar
+#By Türk Hack Team 🇹🇷 Herlock
 echo -e '\033[31;40;1m 
 		   ─────█─▄▀█──█▀▄─█─────
 		   ────▐▌──────────▐▌────
@@ -9,12 +6,9 @@ echo -e '\033[31;40;1m
 		   ───▐██──▀▀──▀▀──██▌───
 		   ──▄████▄──▐▌──▄████▄──
 
-      \e[35m      ☠         Code  : YamanEfkar     ☠
-	  \e[34m☠	     Github : YamanEfkar       ☠
-	 \e[33m☠  	    Youtube : YamanEfkar        ☠
-	\e[32m☠ 	   İnstagram : @yamanefkarr      ☠
+      \e[35m      ☠         Code  : Herlock Türk Hack Team 🇹🇷   ☠
 	
-	\e[36m 	 ☾★ ☾★ Türk Siber Timi ☾★ ☾★	
+	\e[36m 	 🇹🇷★ 🇹🇷★ Türk Hack Team 🇹🇷★ 🇹🇷★	
 
 \e[32m[1]\e[33mTermux Güncelle		\e[32m[12]\e[33mFindUser 
 \e[32m[2]\e[33mXerxes			\e[32m[13]\e[33mNmap
